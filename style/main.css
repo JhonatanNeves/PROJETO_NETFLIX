@@ -24,7 +24,7 @@ header .container{
 
 header .logo{
     margin-left: 10px;
-    color: var(--vermelho);
+    color: #fc5203;
     font-family: 'Arial Black', Times;
     font-size: 40px;
 }
@@ -45,8 +45,10 @@ header nav a:hover{
     background: linear-gradient(rgba(0,0,0,.50), rgba(0,0,0,.50)100%), url('../img/capa.jpg') ;
     
 
-    height:400px;
-    background-size: 100% 100%; /* Usado para atribuir a uma imagem o tamanho do container e responsividade, tamanho da imagem usada no projeto 3840x1080 (para banner netflix) */
+    height: 56.25vw;
+    width: 100%;
+    z-index: 0;
+    background-size: cover; /* Usado para atribuir a uma imagem o tamanho do container e responsividade, tamanho da imagem usada no projeto 1920x1200 (para banner netflix) todo o conjunto acima*/
     
     
 
