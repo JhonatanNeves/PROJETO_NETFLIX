@@ -33,10 +33,12 @@ header nav a{
     text-decoration: none;
     color:#AAA;
     margin-right: 10px;
+    
 }
 
 header nav a:hover{
     color:#fff;
+    
 }
 /* anime principal */
 
@@ -48,7 +50,7 @@ header nav a:hover{
     height: 56.25vw;
     width: 100%;
     z-index: 0;
-    background-size: cover; /* Usado para atribuir a uma imagem o tamanho do container e responsividade, tamanho da imagem usada no projeto 1920x1200 (para banner netflix) todo o conjunto acima*/
+    background-size: cover; /* Usado para atribuir a  imagem o tamanho do container com responsividade, tamanho da imagem usada no projeto 1920x1200 (para banner netflix) todo o conjunto acima*/
     
     
 
