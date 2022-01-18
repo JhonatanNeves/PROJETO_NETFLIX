@@ -61,8 +61,10 @@ header nav a:hover{
 }
 
 .anime-principal .descricao {
-    margin-top: 10px;
+    margin-top: 20px;
     margin-bottom: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 27px;
 }
 
 .anime-principal .titulo {
