@@ -1,7 +1,7 @@
 :root{
     --vermelho: #E50914;
     --preta: #141414;
-    --laranja: #e55a09;
+    --laranja: #160325;
 }
 
 *{
@@ -11,7 +11,7 @@
 }
 /* elementos base */
 body{
-    background-color: var(--preta);
+    background-color: var(--laranja);
     font-family: 'Times New Roman', Times, serif;
     color:white;
 }
@@ -25,7 +25,7 @@ header .container{
 
 header .logo{
     margin-left: 10px;
-    color: #8b47da;
+    color: #ffffff;
     font-family: 'Arial Black', Times;
     font-size: 40px;
 }
