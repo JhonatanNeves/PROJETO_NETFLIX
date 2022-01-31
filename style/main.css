@@ -24,7 +24,7 @@ header .container{
 
 header .logo{
     margin-left: 10px;
-    color: #fc5203;
+    color: #8b47da;
     font-family: 'Arial Black', Times;
     font-size: 40px;
 }
@@ -37,7 +37,7 @@ header nav a{
 }
 
 header nav a:hover{
-    color:#fff;
+    color:rgb(202, 203, 245);
     
 }
 /* anime principal */
