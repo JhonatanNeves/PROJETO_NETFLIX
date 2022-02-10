@@ -1,6 +1,9 @@
 <h1>PROJETO_NETFLIX</h1>
 
-### Projeto onde usei:
+## 🛠️ Tecnologias
+
+As seguintes ferramentas foram usadas na construção do projeto:
+
  * <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
  * <img alt="Js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
  * <img alt="BTS" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"> 
