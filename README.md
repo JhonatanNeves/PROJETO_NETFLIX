@@ -34,7 +34,7 @@ Além disto é bom ter um editor para trabalhar com o código como[VSCode](https
 
 ```bash 
 # Clone este repositório
-$ git clone <https://github.com/JhonatanNeves/PfC.git>
+$ git clone https://github.com/JhonatanNeves/PfC.git
 
 
 ```
